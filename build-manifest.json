@@ -1,0 +1,24 @@
+{
+  "formatVersion": 1,
+  "basePath": "/hq/",
+  "sourceCommit": null,
+  "sourceTreeClean": null,
+  "files": [
+    {
+      "path": "assets/index-BvUaaDd2.css",
+      "bytes": 65358,
+      "sha256": "0add6bc39f3b090ae6090d93d97dd0bd77e875ce454e7acb06085706b97ab5aa"
+    },
+    {
+      "path": "assets/index-DCuHTDsW.js",
+      "bytes": 306679,
+      "sha256": "8ba4f4490db5b7e3fce5d418efc1a9ff9bd45d0e117a2be2199c530c21ca5b7b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 482,
+      "sha256": "994d002d62696cd9ebeb2a6346adf1d8a78f25d5d3e84fda2272a21bfbd6d0b7"
+    }
+  ],
+  "thirdPartyNoticesSha256": "12e3fe10b5ee4fc0bbc12bd7ff12c432dfba74ea47c2424d1e49815659de8969"
+}
