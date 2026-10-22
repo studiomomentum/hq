@@ -1,6 +1,6 @@
 # Third party notices
 
-`getCachedSprite` in `sprite-cache.ts` is adapted from [Pixel Agents](https://github.com/pixel-agents-hq/pixel-agents), commit b1bafd02896d90d83457266575a1e8e5011ce997. Local pixel character artwork and office SVG are original to this project. No third party character/furniture assets are included.
+`getCachedSprite` in `sprite-cache.ts` is adapted from [Pixel Agents](https://github.com/pixel-agents-hq/pixel-agents), commit b1bafd02896d90d83457266575a1e8e5011ce997. The office also includes unmodified character, desk, monitor, chair, plant, bookshelf, coffee, whiteboard, clock, and floor PNG assets from that same Pixel Agents source snapshot. The local window/wall SVG composition and interaction UI are original to this project. Asset provenance and SHA256 hashes are retained in the local design record.
 
 MIT License
 
