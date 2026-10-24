@@ -35,14 +35,14 @@
       "sha256": "afd67bb2cf74e0dc7a1e02762fa15f4a75c614fa895a695296fbb62d56cc2f21"
     },
     {
-      "path": "assets/index-CK3gNGyv.js",
-      "bytes": 518210,
-      "sha256": "f2ece476ae5f89cf3fe6456cba01249543cf3c1347fb7e1386c0e4137d896b55"
+      "path": "assets/index-Drs5FYrt.js",
+      "bytes": 519056,
+      "sha256": "9e9cbdcca07c53697ce424d6a30708883c355099ec0093cb7397756ef99befa3"
     },
     {
       "path": "index.html",
       "bytes": 482,
-      "sha256": "b59806b103423741ab1702183bfc856ba39e9641f82b26c64ca62463b4c3dc50"
+      "sha256": "45f55572de6716970dc26b5fb033bfb59ffa9f0a6235586bb09e6c133dc65d3c"
     }
   ],
   "thirdPartyNoticesSha256": "65f6747d7b98fd7fa3becfb7e213ad1a3392c6e5c1b9c62577c68ac053bd08ba"
