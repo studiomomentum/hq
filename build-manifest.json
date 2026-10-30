@@ -30,19 +30,19 @@
       "sha256": "4b2c639a50e089a4e3b87be440ffb52b5c5c8cfd6473a386f325b25f99db7381"
     },
     {
-      "path": "assets/index-CsKMOPOp.js",
-      "bytes": 575442,
-      "sha256": "4b268d0faff14127c7a078203e23cd803a44d18ecfd368f0699b347eab6fe46a"
+      "path": "assets/index-CvyZ2Yb1.css",
+      "bytes": 146806,
+      "sha256": "b4ee21f6114a39512d02ab9b579680f0b68a082ad3855e812065dcb21aaa3f14"
     },
     {
-      "path": "assets/index-DbNbfuYI.css",
-      "bytes": 145968,
-      "sha256": "b0f47bdb6cf5ff2d8a287b2caec07c5980ebd1cb2e07b0f056771c354697ecea"
+      "path": "assets/index-ylldmaRe.js",
+      "bytes": 578287,
+      "sha256": "afc70afd12d4a77850342eff3f21dfd7dbfe00e3dc6ad13924c93190dc2024c8"
     },
     {
       "path": "index.html",
       "bytes": 482,
-      "sha256": "5678bf21e908502fcc7e6f70767af9cc425bc8038f083ea3aa58e6b639423b78"
+      "sha256": "5fde740aac3ee00eb4ebf76118323abb41767405d7b84a8d61b79d03e583d93c"
     }
   ],
   "thirdPartyNoticesSha256": "65f6747d7b98fd7fa3becfb7e213ad1a3392c6e5c1b9c62577c68ac053bd08ba"
